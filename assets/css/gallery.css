@@ -42,7 +42,7 @@
 }
 
 #Gallery .container img {
-  filter: white(100);
+  filter: grayscale(100);
   width: 100%;
   aspect-ratio: 1/1;
   transition: all 2s;
