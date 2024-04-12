@@ -42,7 +42,7 @@
 }
 
 #Gallery .container img {
-  filter: opacity(10);
+  filter: blur(5px);
   width: 100%;
   aspect-ratio: 1/1;
   transition: all 2s;
