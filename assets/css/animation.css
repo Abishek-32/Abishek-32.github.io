@@ -7,6 +7,12 @@
 #hero h2 {
   animation-delay: 2s;
 }
+
+#hero .btn:hover {
+  border: 3px solid;
+  animation: 1s border-animate infinite;
+}
+
 @keyframes showIt {
   0% {
     opacity: 0;
